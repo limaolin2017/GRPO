@@ -1,0 +1,18 @@
+# 核心依赖
+
+stable-baselines3
+gymnasium
+numpy
+pandas
+
+# 可视化和日志
+tensorboard
+matplotlib
+seaborn
+wandb
+tqdm
+
+# 工具库
+scipy
+cloudpickle
+
