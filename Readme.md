@@ -74,4 +74,4 @@ Main parameters can be modified in `config.py`:
 
 - Stable-Baselines3 文档 (Documentation): https://stable-baselines3.readthedocs.io/
 - Gymnasium 文档 (Documentation): https://gymnasium.farama.org/
-- GRPO Paper: [Group Relative Policy Optimization](https://arxiv.org/abs/2310.13355) (DeepSeek's algorithm similar to PPO)
+- GRPO Paper: [Group Relative Policy Optimization (DeepSeekMath paper)](https://arxiv.org/abs/2402.03300) (DeepSeek's algorithm similar to PPO)
